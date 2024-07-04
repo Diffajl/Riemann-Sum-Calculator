@@ -1,7 +1,5 @@
 # Riemann Sum Calculator
 
-![Riemann Sum Calculator](https://example.com/your-image.png)
-
 ## Overview
 
 The **Riemann Sum Calculator** is a web application that approximates the integral of a given function over a specified interval using the Riemann sum method. This tool allows users to input a mathematical function, define the interval, and specify the number of rectangles to use for the approximation.
