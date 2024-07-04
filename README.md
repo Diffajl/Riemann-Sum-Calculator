@@ -66,15 +66,3 @@ After clicking the "Calculate" button, the application will display the approxim
 ## Contributing
 
 Contributions are welcome! Please fork this repository and submit pull requests for any features, enhancements, or bug fixes.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Contact
-
-If you have any questions or feedback, please feel free to reach out to us at [your-email@example.com].
-
----
-
-Happy calculating!
