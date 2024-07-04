@@ -42,7 +42,7 @@ To run this application locally, you'll need Python installed. Follow these step
 3. Run the Streamlit application:
 
     ```bash
-    streamlit run app.py
+    streamlit run riemann.py
     ```
 
 ## Requirements
